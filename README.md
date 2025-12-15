@@ -15,16 +15,14 @@ Aplikasi game Dungeons & Dragons (D&D) 5th Edition berbasis teks yang didukung o
 
 ## 📸 Tampilan Aplikasi (Screenshots)
 
-## 📸 Tampilan Aplikasi (Screenshots)
-
 | Judul Tampilan          | Screenshot |
 | :---------------------- | :--------- |
-| **Lobby (Create Room)** | ![Lobby](assets/Lobby_create_room.jpg) |
-| **Character Sheet**     | ![Character](assets/character_sheet.jpg) |
-| **Waiting Room Sync**   | ![Waiting](assets/waiting_room_sync.jpg) |
-| **Chat In-Game 1**      | ![Chat1](assets/chat_in_game.jpg) |
-| **Chat In-Game 2**      | ![Chat2](assets/chat_in_game_2.jpg) |
-| **Chat In-Game 3**      | ![Chat3](assets/chat_in_game_3.jpg) |
+| **Lobby (Create Room)** | <img src="assets/Lobby_create_room.jpg" width="360"/> |
+| **Character Sheet**     | <img src="assets/character_sheet.jpg" width="360"/> |
+| **Waiting Room Sync**   | <img src="assets/waiting_room_sync.jpg" width="360"/> |
+| **Chat In-Game 1**      | <img src="assets/chat_in_game.jpg" width="360"/> |
+| **Chat In-Game 2**      | <img src="assets/chat_in_game_2.jpg" width="360"/> |
+| **Chat In-Game 3**      | <img src="assets/chat_in_game_3.jpg" width="360"/> |
 
 ```
 
