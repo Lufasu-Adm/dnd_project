@@ -15,14 +15,14 @@ Aplikasi game Dungeons & Dragons (D&D) 5th Edition berbasis teks yang didukung o
 
 ## 📸 Tampilan Aplikasi (Screenshots)
 
-Untuk menampilkan gambar, Anda harus mengupload gambar-gambar berikut ke folder GitHub Anda (misal: `assets/screenshots/`) dan menggunakan link URL yang benar.
-
 | Judul Tampilan          | Screenshot                                                                            |
 | :---------------------- | :------------------------------------------------------------------------------------ |
-| **Lobby (Create Room)** | [Sertakan URL Gambar dari WhatsApp Image 2025-12-15 at 23.03.42_fd64a53a.jpg di sini] |
-| **Character Sheet**     | [Sertakan URL Gambar dari WhatsApp Image 2025-12-15 at 23.04.37_e1148ce5.jpg di sini] |
-| **Waiting Room Sync**   | [Sertakan URL Gambar dari WhatsApp Image 2025-12-15 at 23.04.55_415694e1.jpg di sini] |
-| **Chat In-Game**        | [Sertakan URL Gambar dari WhatsApp Image 2025-12-15 at 23.12.09_04aa5031.jpg di sini] |
+| **Lobby (Create Room)** | [https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/Lobby%20create%20room.jpg] |
+| **Character Sheet**     | [https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/character%20sheet.jpg] |
+| **Waiting Room Sync**   | [https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/waiting%20room%20sync.jpg] |
+| **Chat In-Game 1**        | [https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/chat%20in%20game.jpg] |
+| **Chat In-Game 2**        | [https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/chat%20in%20game%203.jpg] |
+| **Chat In-Game 3**        | [https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/chat%20in%20game%202.jpg] |
 
 ---
 
