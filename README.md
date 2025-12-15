@@ -15,14 +15,43 @@ Aplikasi game Dungeons & Dragons (D&D) 5th Edition berbasis teks yang didukung o
 
 ## 📸 Tampilan Aplikasi (Screenshots)
 
-| Judul Tampilan          | Screenshot                                                                            |
-| :---------------------- | :------------------------------------------------------------------------------------ |
-| **Lobby (Create Room)** | https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/Lobby%20create%20room.jpg |
-| **Character Sheet**     | https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/character%20sheet.jpg |
-| **Waiting Room Sync**   | https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/waiting%20room%20sync.jpg |
-| **Chat In-Game 1**        | https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/chat%20in%20game.jpg |
-| **Chat In-Game 2**        | https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/chat%20in%20game%203.jpg |
-| **Chat In-Game 3**        | https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/chat%20in%20game%202.jpg |
+> **Catatan singkat:** gunakan **path relatif** (`assets/...`) di README jika file gambar sudah ada dalam repo yang sama. Jika Anda tetap ingin memakai link GitHub, gunakan **raw.githubusercontent.com** (bukan `/blob/`) atau hapus spasi pada nama file.
+
+### Opsi A — Path relatif (direkomendasikan, bekerja untuk repo private & public)
+
+Taruh gambar di `assets/` (atau folder yang sama dengan README), lalu gunakan sintaks:
+
+```md
+| Judul Tampilan        | Screenshot |
+| :-------------------- | :--------- |
+| **Lobby (Create Room)** | ![Lobby](assets/Lobby_create_room.jpg) |
+| **Character Sheet**     | ![Character](assets/character_sheet.jpg) |
+| **Waiting Room Sync**   | ![Waiting](assets/waiting_room_sync.jpg) |
+| **Chat In-Game 1**      | ![Chat1](assets/chat_in_game.jpg) |
+| **Chat In-Game 2**      | ![Chat2](assets/chat_in_game_2.jpg) |
+| **Chat In-Game 3**      | ![Chat3](assets/chat_in_game_3.jpg) |
+```
+
+### Opsi B — Raw GitHub URL (jika file ada di `main` branch dan repo public)
+
+Gunakan URL `raw.githubusercontent.com` tanpa `/blob/`:
+
+```md
+![Lobby](https://raw.githubusercontent.com/Lufasu-Adm/dnd_project/main/assets/Lobby_create_room.jpg)
+```
+
+> Contoh tabel lengkap (raw URLs):
+
+```md
+| Judul Tampilan        | Screenshot |
+| :-------------------- | :--------- |
+| **Lobby (Create Room)** | ![Lobby](https://raw.githubusercontent.com/Lufasu-Adm/dnd_project/main/assets/Lobby_create_room.jpg) |
+| **Character Sheet**     | ![Character](https://raw.githubusercontent.com/Lufasu-Adm/dnd_project/main/assets/character_sheet.jpg) |
+| **Waiting Room Sync**   | ![Waiting](https://raw.githubusercontent.com/Lufasu-Adm/dnd_project/main/assets/waiting_room_sync.jpg) |
+| **Chat In-Game 1**      | ![Chat1](https://raw.githubusercontent.com/Lufasu-Adm/dnd_project/main/assets/chat_in_game.jpg) |
+| **Chat In-Game 2**      | ![Chat2](https://raw.githubusercontent.com/Lufasu-Adm/dnd_project/main/assets/chat_in_game_2.jpg) |
+| **Chat In-Game 3**      | ![Chat3](https://raw.githubusercontent.com/Lufasu-Adm/dnd_project/main/assets/chat_in_game_3.jpg) |
+```
 
 ---
 
@@ -104,3 +133,9 @@ Solusi:
 
 1. Tunggu 12-24 jam hingga kuota harian di Groq reset. **ATAU**
 2. Ganti model di `index.js` dari `llama-3.3-70b-versatile` ke model yang lebih ringan dan cepat seperti **`llama-3.1-8b-instant`**.
+
+---
+
+## 🤝 Kontribusi
+
+Proyek ini bersifat open source. Semua kontribusi (perbaikan bug, penambahan fitur D&D 5e, atau perbaikan UI) sangat disambut baik!
