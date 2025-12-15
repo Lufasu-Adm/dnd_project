@@ -15,21 +15,17 @@ Aplikasi game Dungeons & Dragons (D&D) 5th Edition berbasis teks yang didukung o
 
 ## 📸 Tampilan Aplikasi (Screenshots)
 
-> **Catatan singkat:** gunakan **path relatif** (`assets/...`) di README jika file gambar sudah ada dalam repo yang sama. Jika Anda tetap ingin memakai link GitHub, gunakan **raw.githubusercontent.com** (bukan `/blob/`) atau hapus spasi pada nama file.
+## 📸 Tampilan Aplikasi (Screenshots)
 
-### Opsi A — Path relatif (direkomendasikan, bekerja untuk repo private & public)
-
-Taruh gambar di `assets/` (atau folder yang sama dengan README), lalu gunakan sintaks:
-
-```md
-| Judul Tampilan        | Screenshot |
-| :-------------------- | :--------- |
+| Judul Tampilan          | Screenshot |
+| :---------------------- | :--------- |
 | **Lobby (Create Room)** | ![Lobby](assets/Lobby_create_room.jpg) |
 | **Character Sheet**     | ![Character](assets/character_sheet.jpg) |
 | **Waiting Room Sync**   | ![Waiting](assets/waiting_room_sync.jpg) |
 | **Chat In-Game 1**      | ![Chat1](assets/chat_in_game.jpg) |
 | **Chat In-Game 2**      | ![Chat2](assets/chat_in_game_2.jpg) |
 | **Chat In-Game 3**      | ![Chat3](assets/chat_in_game_3.jpg) |
+
 ```
 
 ### Opsi B — Raw GitHub URL (jika file ada di `main` branch dan repo public)
