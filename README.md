@@ -17,12 +17,12 @@ Aplikasi game Dungeons & Dragons (D&D) 5th Edition berbasis teks yang didukung o
 
 | Judul Tampilan          | Screenshot                                                                            |
 | :---------------------- | :------------------------------------------------------------------------------------ |
-| **Lobby (Create Room)** | [https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/Lobby%20create%20room.jpg] |
-| **Character Sheet**     | [https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/character%20sheet.jpg] |
-| **Waiting Room Sync**   | [https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/waiting%20room%20sync.jpg] |
-| **Chat In-Game 1**        | [https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/chat%20in%20game.jpg] |
-| **Chat In-Game 2**        | [https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/chat%20in%20game%203.jpg] |
-| **Chat In-Game 3**        | [https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/chat%20in%20game%202.jpg] |
+| **Lobby (Create Room)** | https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/Lobby%20create%20room.jpg |
+| **Character Sheet**     | https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/character%20sheet.jpg |
+| **Waiting Room Sync**   | https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/waiting%20room%20sync.jpg |
+| **Chat In-Game 1**        | https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/chat%20in%20game.jpg |
+| **Chat In-Game 2**        | https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/chat%20in%20game%203.jpg |
+| **Chat In-Game 3**        | https://github.com/Lufasu-Adm/dnd_project/blob/main/assets/chat%20in%20game%202.jpg |
 
 ---
 
