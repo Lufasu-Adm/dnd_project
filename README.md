@@ -24,29 +24,6 @@ Aplikasi game Dungeons & Dragons (D&D) 5th Edition berbasis teks yang didukung o
 | **Chat In-Game 2**      | <img src="assets/chat_in_game_2.jpg" width="360"/> |
 | **Chat In-Game 3**      | <img src="assets/chat_in_game_3.jpg" width="360"/> |
 
-```
-
-### Opsi B — Raw GitHub URL (jika file ada di `main` branch dan repo public)
-
-Gunakan URL `raw.githubusercontent.com` tanpa `/blob/`:
-
-```md
-![Lobby](https://raw.githubusercontent.com/Lufasu-Adm/dnd_project/main/assets/Lobby_create_room.jpg)
-```
-
-> Contoh tabel lengkap (raw URLs):
-
-```md
-| Judul Tampilan        | Screenshot |
-| :-------------------- | :--------- |
-| **Lobby (Create Room)** | ![Lobby](https://raw.githubusercontent.com/Lufasu-Adm/dnd_project/main/assets/Lobby_create_room.jpg) |
-| **Character Sheet**     | ![Character](https://raw.githubusercontent.com/Lufasu-Adm/dnd_project/main/assets/character_sheet.jpg) |
-| **Waiting Room Sync**   | ![Waiting](https://raw.githubusercontent.com/Lufasu-Adm/dnd_project/main/assets/waiting_room_sync.jpg) |
-| **Chat In-Game 1**      | ![Chat1](https://raw.githubusercontent.com/Lufasu-Adm/dnd_project/main/assets/chat_in_game.jpg) |
-| **Chat In-Game 2**      | ![Chat2](https://raw.githubusercontent.com/Lufasu-Adm/dnd_project/main/assets/chat_in_game_2.jpg) |
-| **Chat In-Game 3**      | ![Chat3](https://raw.githubusercontent.com/Lufasu-Adm/dnd_project/main/assets/chat_in_game_3.jpg) |
-```
-
 ---
 
 ## 🛠️ Panduan Setup
