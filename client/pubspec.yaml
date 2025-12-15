@@ -1,0 +1,37 @@
+name: client
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.10.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Icons standar iOS
+  cupertino_icons: ^1.0.8
+  
+  # Socket IO Client (Versi 2.x support Server Socket.IO v3 & v4)
+  socket_io_client: ^2.0.3+1
+  
+  # State Management (Gunakan versi 2.x yang stable)
+  flutter_riverpod: ^2.6.1
+  
+  # Font Google
+  google_fonts: ^6.2.1
+  
+  # Markdown Renderer
+  flutter_markdown: ^0.7.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Linter standar (Gunakan versi 5.0.0)
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
